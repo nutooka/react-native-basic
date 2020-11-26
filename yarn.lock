@@ -4513,6 +4513,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-native-awesome-text-input@^1.1.5:
+  version "1.1.5"
+  resolved "https://registry.yarnpkg.com/react-native-awesome-text-input/-/react-native-awesome-text-input-1.1.5.tgz#0c2afc0696216d73a5fec4ea1a3cfeae390251b2"
+  integrity sha512-ACs5+owa2Fbz2D8lP7RZx8aEjuKTU8i8VDqp4txPww71HqcOgVxwzoVZ2q4/U6Owz/7YshU39lInfS4+YhnNgQ==
+
 react-native-safe-area-context@3.1.4:
   version "3.1.4"
   resolved "https://registry.yarnpkg.com/react-native-safe-area-context/-/react-native-safe-area-context-3.1.4.tgz#9b7f883a5ae8da6218d17467a350434005893602"
